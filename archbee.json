@@ -1,7 +1,44 @@
 {
+  "$schema": "https://api.archbee.com/git-config-schema",
   "docsPath": "docs/",
   "structure": {
-    "summary": "summary.md",
-    "assets": "assets"
+    "assets": "assets",
+    "summary": "GENERAL/summary.md",
+    "docsTree": [
+      "GENERAL/introduction.md",
+      "GENERAL/getting-started.md",
+      "GENERAL/ALL BLOCKS.md",
+      "GENERAL/summary.md",
+      {
+        "group": "LISTS",
+        "pages": [
+          "LISTS/bulleted-advanced.md",
+          "LISTS/bulleted-scenarios.md",
+          "LISTS/checklist-advanced.md",
+          "LISTS/checklist-scenarios.md",
+          "LISTS/numbered-advanced.md",
+          "LISTS/numbered-scenarios.md"
+        ]
+      },
+      {
+        "group": "SCENARIOS",
+        "pages": [
+          "SCENARIOS/checklist-scenarios.md",
+          "SCENARIOS/cta-scenarios.md",
+          "SCENARIOS/droplist-scenarios.md",
+          "SCENARIOS/heading-scenarios.md",
+          "SCENARIOS/hint-scenarios.md",
+          "SCENARIOS/linkarray-scenarios.md",
+          "SCENARIOS/list-scenarios.md",
+          "SCENARIOS/new-list.md",
+          "SCENARIOS/new-table.md",
+          "SCENARIOS/split-scenarios.md",
+          "SCENARIOS/table-scenarios.md",
+          "SCENARIOS/table.md",
+          "SCENARIOS/tabs-scenarios.md",
+          "SCENARIOS/workflow-scenarios.md"
+        ]
+      }
+    ]
   }
 }
