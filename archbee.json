@@ -5,10 +5,15 @@
     "assets": "assets",
     "summary": "GENERAL/summary.md",
     "docsTree": [
-      "GENERAL/introduction.md",
-      "GENERAL/getting-started.md",
-      "GENERAL/ALL BLOCKS.md",
-      "GENERAL/summary.md",
+      {
+        "group": "GENERAL",
+        "pages": [
+          "GENERAL/introduction.md",
+          "GENERAL/getting-started.md",
+          "GENERAL/ALL BLOCKS.md",
+          "GENERAL/summary.md"
+        ]
+      },
       {
         "group": "LISTS",
         "pages": [
