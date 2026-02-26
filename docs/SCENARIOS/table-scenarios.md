@@ -1,3 +1,10 @@
+---
+title: TABLE SCENARIOS
+slug: table-scenarios
+createdAt: 2025-01-27T10:00:00.000Z
+updatedAt: 2025-01-27T10:00:00.000Z
+---
+
 # TABLE SCENARIOS NEW
 
 # TABLE SCENARIOS
