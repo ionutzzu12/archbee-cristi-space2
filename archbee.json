@@ -9,6 +9,10 @@
         "isCategory": true,
         "children": [
           {
+            "path": "archbee-doc-Z_2d-2CaKWapMj1lYcBAz.md",
+            "children": []
+          },
+          {
             "path": "archbee-doc-RHGF2NO7IaQ6ZMxZGW7HK.md",
             "children": []
           }
@@ -42,22 +46,17 @@
         "isCategory": true,
         "children": [
           {
+            "path": "LISTS/bulleted-advanced.md",
+            "children": []
+          },
+          {
             "path": "LISTS/aatrox-guide.md",
             "children": [
               {
                 "path": "LISTS/aatrox-abilities.md",
-                "children": [
-                  {
-                    "path": "archbee-doc-43vC3WvGDlb79ryPtSxEe.md",
-                    "children": []
-                  }
-                ]
+                "children": []
               }
             ]
-          },
-          {
-            "path": "LISTS/bulleted-advanced.md",
-            "children": []
           },
           {
             "path": "LISTS/bulleted-scenarios.md",
