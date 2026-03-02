@@ -5,6 +5,16 @@
     "assets": "assets",
     "docsTree": [
       {
+        "categoryName": "cat",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "archbee-doc-RHGF2NO7IaQ6ZMxZGW7HK.md",
+            "children": []
+          }
+        ]
+      },
+      {
         "categoryName": "GENERAL",
         "isCategory": false,
         "path": "GENERAL",
