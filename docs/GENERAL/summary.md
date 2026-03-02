@@ -1,17 +1,18 @@
----
-title: Documentation Summary
-slug: summary
-createdAt: 2025-01-27T10:00:00.000Z
-updatedAt: 2025-01-27T10:00:00.000Z
----
+# Documentation Summary
 
 # Documentation Summary
 
-* [Introduction](#/docs/introduction)
-* Getting Started
-    * [Setup Guide](#/docs/getting-started/setup-guide)
-    * [Basic Usage](#/docs/getting-started/basic-usage)
-* Configuration
-    * [The archbee.json File](#/docs/configuration/archbee-json)
-    * [Advanced Settings](#/docs/configuration/advanced-settings)
-* [FAQ](#/docs/faq)
+- [**Introduction**]()
+- Getting Started
+  - [**Setup Guide**]()
+  - [**Basic Usage**]()
+- Configuration
+  - [**The archbee.json File**]()
+  - [**Advanced Settings**]()
+-
+
+:::CtaButton{label="FAQ" docId="d-JME3xlENZXeh-dCh-EC" docAnchorId="#/docs/faq" noFollow="false" openInNewTab="false" externalHref}
+
+:::
+
+da da da
