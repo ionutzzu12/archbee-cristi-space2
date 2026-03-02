@@ -6,7 +6,7 @@
     "docsTree": [
       {
         "categoryName": "cat",
-        "isCategory": true,
+        "isCategory": false,
         "children": [
           {
             "path": "archbee-doc-RHGF2NO7IaQ6ZMxZGW7HK.md",
