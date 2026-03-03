@@ -9,19 +9,16 @@
         "children": [
           {
             "categoryName": "ALL BLOCKS.md",
-            "isCategory": false,
             "path": "GENERAL/ALL BLOCKS.md",
             "children": []
           },
           {
             "categoryName": "Getting-started.md",
-            "isCategory": false,
             "path": "GENERAL/getting-started.md",
             "children": []
           },
           {
             "categoryName": "Quick-reference.md",
-            "isCategory": false,
             "path": "GENERAL/quick-reference.md",
             "children": []
           },
