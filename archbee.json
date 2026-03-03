@@ -1,68 +1,94 @@
 {
   "docsPath": "docs/",
   "structure": {
-    "summary": "GENERAL/summary.md",
-    "assets": "assets",
+    "assets": "assets/",
     "docsTree": [
-      {
-        "categoryName": "cat",
-        "isCategory": true,
-        "children": [
-          {
-            "path": "archbee-doc-Z_2d-2CaKWapMj1lYcBAz.md",
-            "children": []
-          },
-          {
-            "path": "archbee-doc-RHGF2NO7IaQ6ZMxZGW7HK.md",
-            "children": []
-          }
-        ]
-      },
       {
         "categoryName": "GENERAL",
         "isCategory": true,
         "children": [
           {
-            "path": "GENERAL/summary.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/getting-started.md",
-            "children": []
-          },
-          {
+            "categoryName": "ALL BLOCKS.md",
+            "isCategory": false,
             "path": "GENERAL/ALL BLOCKS.md",
             "children": []
           },
           {
+            "categoryName": "Getting-started.md",
+            "isCategory": false,
+            "path": "GENERAL/getting-started.md",
+            "children": []
+          },
+          {
+            "categoryName": "Introduction.md",
+            "isCategory": false,
+            "path": "GENERAL/introduction.md",
+            "children": []
+          },
+          {
+            "categoryName": "Quick-reference.md",
+            "isCategory": false,
             "path": "GENERAL/quick-reference.md",
+            "children": []
+          },
+          {
+            "categoryName": "Summary.md",
+            "isCategory": false,
+            "path": "GENERAL/summary.md",
             "children": []
           }
         ]
       },
       {
         "categoryName": "LISTS",
-        "isCategory": true,,
+        "isCategory": true,
         "children": [
           {
+            "categoryName": "Aatrox-abilities.md",
+            "isCategory": false,
+            "path": "LISTS/aatrox-abilities.md",
+            "children": []
+          },
+          {
+            "categoryName": "Aatrox-guide.md",
+            "isCategory": false,
+            "path": "LISTS/aatrox-guide.md",
+            "children": []
+          },
+          {
+            "categoryName": "Bulleted-advanced.md",
+            "isCategory": false,
             "path": "LISTS/bulleted-advanced.md",
             "children": []
           },
           {
-            "path": "LISTS/aatrox-guide.md",
-            "children": [
-              {
-                "path": "LISTS/aatrox-abilities.md",
-                "children": []
-              }
-            ]
-          },
-          {
+            "categoryName": "Bulleted-scenarios.md",
+            "isCategory": false,
             "path": "LISTS/bulleted-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Checklist-advanced.md",
+            "isCategory": false,
             "path": "LISTS/checklist-advanced.md",
+            "children": []
+          },
+          {
+            "categoryName": "Checklist-scenarios.md",
+            "isCategory": false,
+            "path": "LISTS/checklist-scenarios.md",
+            "children": []
+          },
+          {
+            "categoryName": "Numbered-advanced.md",
+            "isCategory": false,
+            "path": "LISTS/numbered-advanced.md",
+            "children": []
+          },
+          {
+            "categoryName": "Numbered-scenarios.md",
+            "isCategory": false,
+            "path": "LISTS/numbered-scenarios.md",
             "children": []
           }
         ]
@@ -72,71 +98,104 @@
         "isCategory": true,
         "children": [
           {
+            "categoryName": "Checklist-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/checklist-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Cta-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/cta-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Droplist-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/droplist-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Heading-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/heading-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Hint-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/hint-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Linkarray-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/linkarray-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "List-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/list-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "New-list.md",
+            "isCategory": false,
             "path": "SCENARIOS/new-list.md",
             "children": []
           },
           {
+            "categoryName": "New-table.md",
+            "isCategory": false,
             "path": "SCENARIOS/new-table.md",
             "children": []
           },
           {
+            "categoryName": "Split-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/split-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Table-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/table-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Table.md",
+            "isCategory": false,
             "path": "SCENARIOS/table.md",
             "children": []
           },
           {
+            "categoryName": "Tabs-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/tabs-scenarios.md",
             "children": []
           },
           {
+            "categoryName": "Workflow-scenarios.md",
+            "isCategory": false,
             "path": "SCENARIOS/workflow-scenarios.md",
             "children": []
           }
         ]
       },
       {
-        "categoryName": "Shadow Docs 2",
-        "isCategory": true,
-        "children": [],
-        "isShadowDocs": true
+        "categoryName": "Archbee-doc-RHGF2NO7IaQ6ZMxZGW7HK.md",
+        "isCategory": false,
+        "path": "archbee-doc-RHGF2NO7IaQ6ZMxZGW7HK.md",
+        "children": []
+      },
+      {
+        "categoryName": "Archbee-doc-Z_2d-2CaKWapMj1lYcBAz.md",
+        "isCategory": false,
+        "path": "archbee-doc-Z_2d-2CaKWapMj1lYcBAz.md",
+        "children": []
       }
     ]
   },
-  "shadowDocs": [],
-  "isMain": true
+  "shadowDocs": []
 }
