@@ -42,7 +42,7 @@
       },
       {
         "categoryName": "LISTS",
-        "isCategory": true,
+        "isCategory": true,,
         "children": [
           {
             "path": "LISTS/bulleted-advanced.md",
