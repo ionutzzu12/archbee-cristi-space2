@@ -10,7 +10,8 @@
           {
             "categoryName": "ALL BLOCKS.md",
             "path": "GENERAL/ALL BLOCKS.md",
-            "children": []
+            "children": [],
+            "isHidden": true
           },
           {
             "categoryName": "Getting-started.md",
