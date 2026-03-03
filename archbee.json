@@ -20,15 +20,15 @@
             "children": []
           },
           {
-            "categoryName": "Introduction.md",
-            "isCategory": false,
-            "path": "GENERAL/introduction.md",
-            "children": []
-          },
-          {
             "categoryName": "Quick-reference.md",
             "isCategory": false,
             "path": "GENERAL/quick-reference.md",
+            "children": []
+          },
+          {
+            "categoryName": "Introduction.md",
+            "isCategory": false,
+            "path": "GENERAL/introduction.md",
             "children": []
           },
           {
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "categoryName": "LISTS",
+        "categoryName": "LISTS2",
         "isCategory": true,
         "children": [
           {
