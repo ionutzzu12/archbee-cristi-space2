@@ -20,7 +20,7 @@
       },
       {
         "categoryName": "GENERAL",
-        "isCategory": false,
+        "isCategory": true,
         "children": [
           {
             "path": "GENERAL/summary.md",
