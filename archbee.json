@@ -21,7 +21,6 @@
       {
         "categoryName": "GENERAL",
         "isCategory": false,
-        "path": "GENERAL",
         "children": [
           {
             "path": "GENERAL/summary.md",
