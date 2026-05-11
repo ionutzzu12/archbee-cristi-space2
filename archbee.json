@@ -1,5 +1,7 @@
 {
   "docsPath": "docs/",
+  "hostingColor": "red",
+  "darkHostingColor": "red",
   "structure": {
     "assets": "assets/",
     "docsTree": [
