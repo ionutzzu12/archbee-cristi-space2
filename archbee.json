@@ -2,6 +2,7 @@
   "docsPath": "docs/",
   "hostingColor": "red",
   "darkHostingColor": "red",
+  "faviconURL": "todo",
   "structure": {
     "assets": "assets/",
     "docsTree": [
