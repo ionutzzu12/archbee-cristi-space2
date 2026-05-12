@@ -7,6 +7,14 @@
     "assets": "assets/",
     "docsTree": [
       {
+        "path": "new-doc-2.mdx",
+        "children": []
+      },
+      {
+        "path": "J-0hgWrVj6QNt5DdHQC6i.mdx",
+        "children": []
+      },
+      {
         "categoryName": "GENERAL",
         "isCategory": true,
         "children": [
@@ -194,6 +202,16 @@
         "isCategory": false,
         "path": "archbee-doc-Z_2d-2CaKWapMj1lYcBAz.md",
         "children": []
+      },
+      {
+        "path": "new-doc-here.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
       }
     ]
   },
